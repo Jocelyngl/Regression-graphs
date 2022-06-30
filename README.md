@@ -1,4 +1,8 @@
-# Regression-graphs
-Anscombe's Quartlet
-View the differences between r recommeded ways of running a regression graphic
-versus personalizing your own model to create a graphic
+# Regression Graphs
+'Anscombe's Quartlet'
+
+View the differences between R recommeded graphs versus personalizing your own model to create a graphic.
+
+Example: Running a regression graphic
+
+Enjoy!
